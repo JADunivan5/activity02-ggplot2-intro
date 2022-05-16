@@ -178,7 +178,8 @@ vice versa. That is, what can you easily determine by looking at the
 boxplot? What about the jitterplot?
 
 **Response**:That certain species tend to fall in different ranges of
-flipper length.
+flipper length. Box plot atleast as the color coordination, while the
+jitterplot allows us to see the individual points.
 
 Knit, then stage everything listed in your **Git** pane, commit (with a
 meaningful commit message), and push to your GitHub repo. Then, go to
